@@ -1,23 +1,32 @@
-h1 {
-  font-family: Gill Sans;
-  color: red
-}
 body {
   background-color: #f6e0b5;
   margin: left;
 }
+
+h1 {
+  font-family: Gill Sans;
+  color: red
+}
+
 1 {
   color: #aa6f73;
   font-family: Press Start 2P;
-  size: 10 px
+  size: 100 px
 }
+fashtext {
+    color: #aa6f73;
+  font-family: Press Start 2P;
+  size: 50 px
+}
+fashion {
+  size: 
 2 {
   color: #aa6f73;
   font-family: Press Start 2P;
-  size: 10 px
+  size: 100 px
 }
 3 {
   color: #aa6f73;
   font-family: Press Start 2P;
-  size: 10 px
+  size: 100 px
 }
