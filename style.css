@@ -26,8 +26,23 @@ h1 {
   font-family: Press Start 2P;
   size: 100 px;
 }
+#room {
+    color: #aa6f73;
+  font-family: Press Start 2P;
+  size: 50 px;
+}
+#decor {
+  size: 100 px; 
+    }
 #3 {
   color: #aa6f73;
   font-family: Press Start 2P;
   size: 100 px;
 }
+#journal {
+    color: #aa6f73;
+  font-family: Press Start 2P;
+  size: 50 px;
+}
+#junk {
+  size:
