@@ -8,7 +8,7 @@ h1 {
   color: red
 }
 
-#1 {
+#ontop {
   color: #aa6f73;
   font-family: Press Start 2P;
   size: 100 px;
@@ -21,7 +21,7 @@ h1 {
 #fashion {
   size: 100 px; 
     }
-#2 {
+#onbelow {
   color: #aa6f73;
   font-family: Press Start 2P;
   size: 100 px;
@@ -34,7 +34,7 @@ h1 {
 #decor {
   size: 100 px; 
     }
-#3 {
+#onlast {
   color: #aa6f73;
   font-family: Press Start 2P;
   size: 100 px;
